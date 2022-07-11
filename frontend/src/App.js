@@ -1,3 +1,5 @@
+import { Footer, Header, Main } from "./sectioning";
+
 function App() {
   return (
     <>
